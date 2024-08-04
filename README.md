@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @UdhyaKumarKMIT
+- 👀 I’m interested in Full Stack Web Development, Artificial Intelligence and Problem Solving
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Software Development
+- 📫 How to reach me gmail: udhyak2004@gmail.com
+
+
+<!---
+UdhyaKumarKMIT/UdhyaKumarKMIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
