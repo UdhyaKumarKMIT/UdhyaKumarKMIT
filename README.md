@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyakk2004)
+- ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
 
 <!---
 UdhyaKumarKMIT/UdhyaKumarKMIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
