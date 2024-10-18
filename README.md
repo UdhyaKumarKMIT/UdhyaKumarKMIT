@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Web Developer and Problem Solver</h3>
 
 <!-- Coding GIF aligned to the right -->
-<img align="right" alt="coding" width="275px" height="300px" src="https://1.bp.blogspot.com/-7qsaPAu9vu0/YUyZeUEK_RI/AAAAAAAAAPo/pUPPOUNHRI46CYduioCjAGrsNKMeF3tBACLcBGAsYHQ/w1600/46207-programmer.gif">
-
+<img align="right" alt="coding" width="300px" height="270px" src="https://1.bp.blogspot.com/-7qsaPAu9vu0/YUyZeUEK_RI/AAAAAAAAAPo/pUPPOUNHRI46CYduioCjAGrsNKMeF3tBACLcBGAsYHQ/w1600/46207-programmer.gif">
+<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=udhyakumarkmit&label=Profile%20views&color=0e75b6&style=flat" alt="udhyakumarkmit" />
 </p>
@@ -18,7 +18,7 @@
 
 ## Programming Skills 🛠️
 
-| ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
+ ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
 ## Coding Stats 📊
 
