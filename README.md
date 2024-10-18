@@ -2,6 +2,31 @@
 <h1 align="center">Hi 👋, I'm Udhya Kumar K</h1>
 <h3 align="center">A passionate Web Developer and Problem Solver</h3>
 
+
+<!-- Profile views counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=udhyakumarkmit&label=Profile%20views&color=0e75b6&style=flat" alt="udhyakumarkmit" />
+</p>
+
+<!-- Coding GIF aligned to the right -->
+<img align="right" alt="coding" width="275px" height="300px" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+
+<!-- Information Section -->
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on **AI and ML projects**
+
+- 📫 How to reach me **udhyak2004@gmail.com**
+
+<br><br>
+
+## Programming Skills 🛠️
+
+| ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
+| --- | --- | --- |
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udhyakumarkmit&label=Profile%20views&color=0e75b6&style=flat" alt="udhyakumarkmit" /> </p>
 
 <img alight="right" alt="coding" width="275px" height="300px" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
