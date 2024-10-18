@@ -5,7 +5,7 @@
 
 
 <!-- Coding GIF aligned to the right -->
-<img align="right"  alt="coding" width="275px" height="300px" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<img align="right"  alt="coding" width="275px" height="300px" src="https://giphy.com/gifs/qgQUggAC3Pfv687qPC">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=udhyakumarkmit&label=Profile%20views&color=0e75b6&style=flat" alt="udhyakumarkmit" />
