@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer and Problem Solver</h3>
 
 
-<!-- Profile views counter -->
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=udhyakumarkmit&label=Profile%20views&color=0e75b6&style=flat" alt="udhyakumarkmit" />
 </p>
@@ -11,7 +11,8 @@
 <!-- Coding GIF aligned to the right -->
 <img align="right"  alt="coding" width="275px" height="300px" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
-<!-- Information Section -->
+- 🔭 I’m currently working on **Web Development**
+  
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **AI and ML projects**
