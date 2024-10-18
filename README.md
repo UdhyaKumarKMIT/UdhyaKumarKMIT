@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udhyakumarkmit&label=Profile%20views&color=0e75b6&style=flat" alt="udhyakumarkmit" /> </p>
 
-<img alt="coding" width="300px" height="400px" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<img alight="right" alt="coding" width="275px" height="300px" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **AI and ML projects**
