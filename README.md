@@ -16,7 +16,7 @@
 | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
 | --- | --- | --- |
   
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
+![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
