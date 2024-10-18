@@ -9,7 +9,7 @@
 </p>
 
 <!-- Coding GIF aligned to the right -->
-<img align="right" alt="coding" width="275px" height="300px" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<img align="right"  alt="coding" width="275px" height="300px" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
 <!-- Information Section -->
 - 🌱 I’m currently learning **Machine Learning**
@@ -27,21 +27,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udhyakumarkmit&label=Profile%20views&color=0e75b6&style=flat" alt="udhyakumarkmit" /> </p>
 
-<img alight="right" alt="coding" width="275px" height="300px" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **AI and ML projects**
-
-- 📫 How to reach me **udhyak2004@gmail.com**
-
-
-## Programming Skills 🛠️
-
-| ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
-| --- | --- | --- |
-  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
   
 <h3 align="left">Connect with me:</h3>
