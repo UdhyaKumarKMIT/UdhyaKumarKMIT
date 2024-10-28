@@ -2,8 +2,12 @@
 <h3 align="center">A passionate Web Developer and Problem Solver</h3>
 
 <!-- Coding GIF aligned to the right -->
-<img align="right" alt="coding" width="300px" height="270px" src="https://1.bp.blogspot.com/-7qsaPAu9vu0/YUyZeUEK_RI/AAAAAAAAAPo/pUPPOUNHRI46CYduioCjAGrsNKMeF3tBACLcBGAsYHQ/w1600/46207-programmer.gif">
+<img align="right" alt="coding" width="300px" height="270px" 
+     src="https://1.bp.blogspot.com/-7qsaPAu9vu0/YUyZeUEK_RI/AAAAAAAAAPo/pUPPOUNHRI46CYduioCjAGrsNKMeF3tBACLcBGAsYHQ/w1600/46207-programmer.gif" 
+     style="margin-right: 60px;">
+
 <br>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=udhyakumarkmit&label=Profile%20views&color=0e75b6&style=flat" alt="udhyakumarkmit" />
 </p>
@@ -51,11 +55,11 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> 
   </a> 
-  <br>
-  <!-- Frontend Languages -->
+<br>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
   </a>
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
   </a> 
@@ -102,7 +106,6 @@
 
 --- 
 
-This arrangement follows the sequence you specified. Let me know if you'd like further adjustments!
 
 ## Languages and Tools 🛠️
 
