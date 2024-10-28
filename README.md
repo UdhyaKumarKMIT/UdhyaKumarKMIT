@@ -16,6 +16,8 @@
   
 - 🌱 I’m currently learning **Machine Learning**
 
+- 🌱 I'm in Google Developer Groups Learning **Gen AI Jam Course"
+
 - 👯 I’m looking to collaborate on **AI and ML projects**
 
 - 📫 How to reach me **udhyak2004@gmail.com**
@@ -26,15 +28,39 @@
 
 ## Coding Stats 📊
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
-
-## Connect with me 🤝
-
 <p align="left">
 <a href="https://www.linkedin.com/in/udhya-kumar-k-b7999128a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udhya kumar k" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/udhyak2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udhyak2004" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/udhyak2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udhyak2004" height="40" width="50" /></a>
 </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
+
+## Connect with me 🤝
+
+## ❤️ Let's get connected:
+
+<p align="center">
+  <a href="https://vijaisuria.github.io" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/vijaisuria.github.io-8A2BE2?style=for-the-badge&logo=github" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://orchidapp.io" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Orchid-8CC63F?style=for-the-badge&logo=orchid" alt="Orchid" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+</p>
+
 
 
 ## Languages and Tools 🛠️
