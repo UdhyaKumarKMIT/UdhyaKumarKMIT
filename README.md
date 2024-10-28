@@ -108,7 +108,7 @@
 ## ❤️ Let's get connected 🤝
 
 <p align="center">
-  <a href="www.linkedin.com/in/udhya-kumar-k-b7999128a" target="_blank" style="text-decoration: none;">
+  <a href="[www.linkedin.com/in/udhya-kumar-k-b7999128a](https://www.linkedin.com/in/udhya-kumar-k-b7999128a/)" target="_blank" style="text-decoration: none;">
     <img href="www.linkedin.com/in/udhya-kumar-k-b7999128a" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="[https://github.com](https://github.com/UdhyaKumarKMIT)" target="_blank" style="text-decoration: none;">
