@@ -54,11 +54,8 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
   </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> 
-  </a> 
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+ 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
   </a>
   
@@ -68,9 +65,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> 
-  </a> 
+
 
   <!-- Backend Languages -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -114,7 +109,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/udhya-kumar-k-b7999128a" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img href="www.linkedin.com/in/udhya-kumar-k-b7999128a" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="[https://github.com](https://github.com/UdhyaKumarKMIT)" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github" alt="GitHub" />
