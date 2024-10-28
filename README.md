@@ -104,6 +104,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udhyakumarkmit&show_icons=true&locale=en&layout=compact" alt="udhyakumarkmit" /></p>
 
 
+<img src="https://github-profile-trophy.vercel.app/?username=UdhyaKumarKMIT&theme=tokyonight" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=UdhyaKumarKMIT" alt="GitHub Trophies" />
 ## ❤️ Let's get connected 🤝
 <p align="center">
   <a href="https://www.linkedin.com/in/udhya-kumar-k-b7999128a/" target="_blank" style="text-decoration: none;">
