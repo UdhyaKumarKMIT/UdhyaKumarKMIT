@@ -36,30 +36,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
 
-## Connect with me 🤝
-
-## ❤️ Let's get connected:
-
-<p align="center">
-  <a href="https://vijaisuria.github.io" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/vijaisuria.github.io-8A2BE2?style=for-the-badge&logo=github" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="https://orchidapp.io" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Orchid-8CC63F?style=for-the-badge&logo=orchid" alt="Orchid" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" />
-  </a>
-</p>
 
 
 
@@ -132,4 +108,23 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udhyakumarkmit&show_icons=true&locale=en&layout=compact" alt="udhyakumarkmit" /></p>
+
+
+## ❤️ Let's get connected 🤝
+
+<p align="center">
+  <a href="www.linkedin.com/in/udhya-kumar-k-b7999128a" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="[https://github.com](https://github.com/UdhyaKumarKMIT)" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="twitter.com/@k_udhya69116" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+ 
+  <a href="mailto:udhyak2004@example.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail" />
+  </a>
+</p>
 
