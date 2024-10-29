@@ -36,10 +36,13 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
 
-<p><img src="https://leetcode-badge-showcase.vercel.app/api?username={udhyak2004}&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={udhyak2004}&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcard.jacoblin.cool/udhyak2004?theme=dark&font=Karma" alt="LeetCode Badge"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=udhyak2004&animated=true" alt="LeetCode Badge"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=udhyak2004&theme=nightowl&animated=true" alt="LeetCode Badge"/>
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={udhyak2004}&theme={nightowl}&animated=true" alt="LeetCode Badges"/></p>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={udhyak2004}&theme={nightowl}&animated=true" alt="LeetCode Badges"/>
 
 <br>
 
