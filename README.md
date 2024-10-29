@@ -36,10 +36,11 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={udhyak2004}&animated=true" alt="LeetCode Badges"/>
+<p><img src="https://leetcode-badge-showcase.vercel.app/api?username={udhyak2004}&animated=true" alt="LeetCode Badges"/>
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={udhyak2004}&theme={nightowl}&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={udhyak2004}&theme={nightowl}&animated=true" alt="LeetCode Badges"/></p>
+
 <br>
 
 ## Languages and Tools 🛠️
