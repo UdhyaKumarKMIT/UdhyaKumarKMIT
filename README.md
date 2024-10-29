@@ -36,7 +36,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
 
-
+<img src="https://leetcode-badge-showcase.vercel.app/api? username={udhyak2004}" alt="LeetCode Badges"/>
 
 <br>
 
@@ -108,7 +108,7 @@
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=UdhyaKumarKMIT&theme=tokyonight" alt="GitHub Trophies" />
 
-## Programming Skills 🛠️ Let's get connected 🤝
+## Let's get connected 🤝
 <p align="center">
   <a href="https://www.linkedin.com/in/udhya-kumar-k-b7999128a/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
