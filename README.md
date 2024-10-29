@@ -16,7 +16,7 @@
   
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🌱 I'm in Google Developer Groups Learning **Gen AI Jam Course"
+- 🌱 I'm in Google Developer Groups Learning **Gen AI Jam Course**"
 
 - 👯 I’m looking to collaborate on **AI and ML projects**
 
@@ -35,7 +35,7 @@
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=udhyak2004&theme=nightowl&animated=true" alt="LeetCode Badge"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=udhyak2004&theme=light&animated=true" alt="LeetCode Badge"/>
 
 
 <br>
