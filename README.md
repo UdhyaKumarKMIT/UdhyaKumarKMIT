@@ -37,22 +37,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/udhyak2004)
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=udhyak2004&theme=light&animated=true" alt="LeetCode Badge"/>
 
-<style>
-    /* Keyframe animation to simulate "zoom" effect */
-    @keyframes pulse {
-        0% { transform: scale(1); }
-        50% { transform: scale(1.05); }
-        100% { transform: scale(1); }
-    }
 
-    /* Apply animation to the badge */
-    .animated-badge {
-        animation: pulse 3s ease-in-out infinite;
-    }
-</style>
-
-<img class="animated-badge" src="https://leetcard.jacoblin.cool/udhyak2004?theme=light" alt="LeetCode Stats"/>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=udhyak2004&theme=light&animated=true" alt="LeetCode Animated Badge"/>
 
 <br>
 
