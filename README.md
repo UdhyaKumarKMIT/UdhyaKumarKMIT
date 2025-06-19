@@ -2,9 +2,12 @@
 <h3 align="center">A passionate Web Developer and Problem Solver</h3>
 
 <br>
+<p align="center">
   <a href="https://udhyakumarkmit.github.io/Portfolio-Website-React-Bootstrap/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/🌐 My Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
 
 <!-- Coding GIF aligned to the right -->
 <img align="right" alt="coding" width="300px" height="270px" 
