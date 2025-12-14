@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udhya Kumar K</h1>
-<h3 align="center">A passionate Web Developer and Problem Solver</h3>
+<h3 align="center">A passionate Web Developer , critical thinker and Problem Solver</h3>
 
 <br>
 <p align="center">
