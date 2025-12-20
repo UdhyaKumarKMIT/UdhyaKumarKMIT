@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=udhyakumarkmit&label=Profile%20views&color=0e75b6&style=flat" alt="udhyakumarkmit" />
 </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Final Year Project **
   
 - 🌱 I’m currently learning **Machine Learning**
 
