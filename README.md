@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udhya Kumar K</h1>
-<h3 align="center">A passionate Web Developer , critical thinker and Problem Solver</h3>
+<h3 align="center">A passionate Web Developer, AI/ML Engineer , critical thinker and Problem Solver</h3>
 
 <br>
 <p align="center">
@@ -104,7 +104,7 @@
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=UdhyaKumarKMIT&theme=tokyonight" alt="GitHub Trophies" />
 
-## Let's get connected 🤝
+## Let's get connected🤝
 <p align="center">
   <a href="https://www.linkedin.com/in/udhya-kumar-k-b7999128a/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
